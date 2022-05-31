@@ -1,14 +1,3 @@
----
-layout: post
-title:  "Como instalar e configurar o Tensorflow/Keras com suporte para CPU e GPU no Windows"
-date:   2022-05-24 00:00
-category: blog
-icon: www
-keywords: tensorflow, cpu, gpu, deep learning, ciência de dados, machine learning
-image: 2022-05-30-tensorflow_gpu/tf-gpu.png
-preview: 0
----
-
 ## Introdução
 
 Em um [artigo anterior](https://gallileugenesis.github.io/blog/2022/CPUvsGPU.html) vimos uma visão geral sobre as CPUs e as GPUs. Nesse artigo você verá como instalar e configurar o Tensorflow/Keras com suporte para CPU e GPU no Windows.
